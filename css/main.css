@@ -2267,8 +2267,9 @@
 			background-size: cover;
 			background-position: center;
 			background-color: #778899;
-			left:240px;
-			line-height:2;
+			left: 240px;
+			line-height: 2;
+			width: 50%;
 			}
 
 			.image.fit img {
