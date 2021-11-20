@@ -2253,15 +2253,14 @@
 		}
 		.column-2 {
 			float: left;
-			width: 65%;
+			width: 85%;
 			padding: 40px;
 			padding-left:70px;
 			padding-right: 70px;
 			height: 700px;
-			margin: 10px;
-			margin-right:10px;
+			margin: 30px;
+			margin-right:30px;
 			margin-bottom: 70px;
-			
 			line-height:2;
 			} 
 		.large-profile {
