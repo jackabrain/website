@@ -2263,6 +2263,10 @@
 			margin-bottom: 70px;
 			line-height:2;
 			} 
+		.large-profile {
+			background-size: cover;
+			background-position: center;
+			}
 
 			.image.fit img {
 				width: 100%;
