@@ -2270,6 +2270,9 @@
 			left: 240px;
 			line-height: 2;
 			width: 50%;
+			padding-left:70px;
+			padding-right: 70px;
+			
 			}
 
 			.image.fit img {
