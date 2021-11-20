@@ -2258,15 +2258,15 @@
 			padding-left:70px;
 			padding-right: 70px;
 			height: 475px;
-			margin:30px;
-			margin-right:30px;
+			margin: 10px;
+			margin-right:10px;
 			margin-bottom: 70px;
 			background-color: #778899;
 			line-height:2;
 			} 
 		.large-profile {
 			background-size: cover;
-			background-position: left;
+			background-position: center;
 			}
 
 			.image.fit img {
