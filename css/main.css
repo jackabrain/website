@@ -2265,10 +2265,9 @@
 
 			} 
 		.large-profile {
-			color: black;
 			background-size: cover;
 			background-position: center;
-			background-color: #C0C0C0;
+			background-color: #404040;
 			left: 240px;
 			line-height: 2;
 			width: 40%;
