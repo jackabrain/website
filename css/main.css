@@ -2261,12 +2261,13 @@
 			margin: 10px;
 			margin-right:10px;
 			margin-bottom: 70px;
-			background-color: #778899;
+			
 			line-height:2;
 			} 
 		.large-profile {
 			background-size: cover;
 			background-position: center;
+			background-color: #778899;
 			}
 
 			.image.fit img {
