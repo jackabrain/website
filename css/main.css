@@ -2265,7 +2265,7 @@
 			} 
 		.large-profile {
 			background-size: cover;
-			background-position: center;
+			/*background-position: center;*/
 			background-color: #778899;
 			left:240px;
 			}
