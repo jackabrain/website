@@ -2254,7 +2254,7 @@
 		.column-2 {
 			float: right;
 			position: absolute;
-			right: 400px;
+			left: 400px;
 			width: 95%;
 			padding-left:70px;
 			padding-right: 70px;
