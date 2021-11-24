@@ -2257,7 +2257,7 @@
 		.column-2 {
 			float: right;
 			position: absolute;
-			left: 100px;
+			left: 500px;
 			width: 95%;
 			padding-left:30px;
 			padding-right: 30px;
@@ -2271,7 +2271,7 @@
 			background-color: #404040;
 			line-height: 2;
 			width: 40%;
-			right: 100px;
+			right: 300px;
 			padding: 30px;
 			
 			}
