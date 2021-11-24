@@ -2257,7 +2257,7 @@
 		.column-2 {
 			float: right;
 			position: absolute;
-			left: 400px;
+			left: 350px;
 			width: 95%;
 			padding-left:30px;
 			padding-right: 30px;
@@ -2267,7 +2267,7 @@
 
 			} 
 		.large-profile {
-
+			float: left;
 			background-color: #404040;
 			line-height: 2;
 			width: 40%;
